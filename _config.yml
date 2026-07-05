@@ -7,7 +7,8 @@ author: datarichard
 # 테마
 show_downloads: true
 logo: /assets/img/datarichard.png
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+# jekyll-theme-minimal / jekyll-theme-cayman / jekyll-theme-slate
 
 # SNS
 linkedin_url: "https://www.linkedin.com/in/datarichard"
