@@ -8,3 +8,8 @@ author: datarichard
 show_downloads: true
 logo: /assets/img/datarichard.png
 theme: jekyll-theme-minimal
+
+# SNS
+linkedin_url: "https://www.linkedin.com/in/datarichard"
+github_username: dongchanlim
+email: dchanlim@gmail.com
