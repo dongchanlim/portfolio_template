@@ -3,6 +3,7 @@
 
 ## 자기 소개
 Introduction
+
 ------
 
 ### ~한 000입니다.
@@ -17,6 +18,7 @@ Introduction
 
 ## 직무 경험
 Experience
+
 ------
 
 **직무 타이틀** @ 회사이름 (시작연도/월 - 졸업연도/월)
@@ -26,6 +28,7 @@ Experience
 
 ## 교육
 Education
+
 ------
 학교 이름 (시작연도 - 졸업연도)
 
@@ -34,11 +37,13 @@ Education
 
 ## 보유 스킬
 Skill
+
 ------
 - 예시) Python - Pandas, Numpy, Matplotlib, Sklearn
 
 ## 프로젝트
 Project
+
 ------
 ![trash](assets/img/trash 2.jpeg)
 
