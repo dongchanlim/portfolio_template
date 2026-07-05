@@ -2,7 +2,7 @@
 * [무료 이미지 사이트](https://unsplash.com/)
 
 ## 자기 소개
-Introduction
+`Introduction`
 
 ------
 
@@ -17,7 +17,7 @@ Introduction
 
 
 ## 직무 경험
-Experience
+`Experience`
 
 ------
 
@@ -27,7 +27,7 @@ Experience
 
 
 ## 교육
-Education
+`Education`
 
 ------
 학교 이름 (시작연도 - 졸업연도)
@@ -36,13 +36,13 @@ Education
 
 
 ## 보유 스킬
-Skill
+`Skill`
 
 ------
 - 예시) Python - Pandas, Numpy, Matplotlib, Sklearn
 
 ## 프로젝트
-Project
+`Project`
 
 ------
 ![trash](assets/img/trash 2.jpeg)
